@@ -5,8 +5,8 @@
 ![Claude](https://img.shields.io/badge/Claude-Anthropic-orange?style=for-the-badge&logo=anthropic)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
-![Stars](https://img.shields.io/github/stars/yourusername/claude-tips-and-tricks?style=for-the-badge)
-![Last Commit](https://img.shields.io/github/last-commit/yourusername/claude-tips-and-tricks?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/ramzi-bouzaiene/claude-tips-and-tricks?style=for-the-badge)
+![Last Commit](https://img.shields.io/github/last-commit/ramzi-bouzaiene/claude-tips-and-tricks?style=for-the-badge)
 
 **A community-curated collection of tips, tricks, hidden features, prompt templates, and code snippets for getting the most out of Claude AI.**
 
