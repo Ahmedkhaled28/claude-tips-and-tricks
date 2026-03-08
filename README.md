@@ -344,11 +344,6 @@ Multi-step prompt sequences for complex workflows. See [`/prompts/chain-prompts/
 - [Prompt Engineering Guide](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview)
 - [Claude Model Overview](https://docs.anthropic.com/en/docs/about-claude/models)
 
-### Community
-- [awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) — Curated list of Claude Code tools
-- [everything-claude-code](https://github.com/affaan-m/everything-claude-code) — Production configs for Claude Code
-- [claude-code-ultimate-guide](https://github.com/FlorianBruniaux/claude-code-ultimate-guide) — In-depth Claude Code guide
-
 ---
 
 ## 🤝 Contributing
@@ -377,7 +372,5 @@ MIT License — see [LICENSE](./LICENSE) for details.
 <div align="center">
 
 **If this helped you, please ⭐ the repo and share it with others!**
-
-Made with ❤️ by the community, for the community.
 
 </div>
